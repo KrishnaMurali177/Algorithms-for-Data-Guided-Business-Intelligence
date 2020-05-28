@@ -1,0 +1,6 @@
+[DEFAULT]
+
+AccessToken = 1225899553351753728-SIWwp4oExwJSRe7tno2EdSF0Evy6q6
+AccessTokenSecret = Ob1ihBKljp2HEbb3PpglbmrKyhFq6r7I9CWA74z61eYY0
+ConsumerKey = BC2KIZDomKCijp7a0ltGHeMf8
+ConsumerSecretKey = XntzyCtKtXM0zJlWOUYoIlyjVZEt0xyZAcS0YnC0XEL2zCWsD0
