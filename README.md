@@ -13,7 +13,7 @@ Using Bayesian regression to predict the price of bitcoins based on previous dat
 ## Deep Neural Network Architectures for defect detection
 Detecting defects on textured surfaces using Image segmentation to detect the pixels where the defect occurs in the given image. 
 Dataset - https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection
-Implementing the approach given in the [paper](https://arxiv.org/abs/1505.04597)
+Implementing the approach given in this specific [paper](https://arxiv.org/abs/1505.04597).
 
 ## Generalized Linear Models - Logistic regression
 Build and analyze a logistic regression model in R using all the features as predictors. Scrutinize the model by reducing predictors according to significance and combining predictors to produce a better model
