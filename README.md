@@ -13,7 +13,7 @@ Using Bayesian regression to predict the price of bitcoins based on previous dat
 ## Deep Neural Network Architectures for defect detection
 Detecting defects on textured surfaces using Image segmentation to detect the pixels where the defect occurs in the given image. 
 Dataset - https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection
-Implementing the approach given in the [paper] (https://arxiv.org/abs/1505.04597)
+Implementing the approach given in the [paper](https://arxiv.org/abs/1505.04597)
 
 ## Generalized Linear Models - Logistic regression
 Build and analyze a logistic regression model in R using all the features as predictors. Scrutinize the model by reducing predictors according to significance and combining predictors to produce a better model
@@ -33,3 +33,11 @@ Implement various network properties using pySpark, GraphFrames and networkx:
 - Centrality: determine nodes that are important based on the structure of the graph. Closeness centrality measures the distance of a node to all other nodes.
 - Articulation Points: vertices in the graph that, when removed, create more components than there were originally.
 
+## Stochastic Gradient Descent
+Implementing Stochastic Gradient Descent in Linear Regression with L-2 Regularization
+
+## Supervised Learning Techniques for Sentiment Analytics
+Perform sentiment analysis over IMDB movie reviews and Twitter data to classify tweets or movie reviews as either positive or negative given a labeled training data to build the model and labeled testing data to evaluate the model. Generate embedding/feature vectors using Word2Vec and Doc2Vec techniques and build classifiers using logistic regression as well as a Naive Bayes classifier.
+
+## Twitter Sentiment Analytics with Spark Streaming
+Perform sentiment analytics on real time tweets using Apache Kafka and Spark
